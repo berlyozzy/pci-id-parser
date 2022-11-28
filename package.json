@@ -11,11 +11,8 @@
   "description": "A small library to parse a PCI ID database into a JS Object or find a specific device.",
   "main": "index.js",
   "keywords": [
-    "PCI",
-    "PCI",
-    "ID",
-    "PCI",
-    "Parser",
+    "pci id",
+    "pci",
     "parser",
     "ESM"
   ],
