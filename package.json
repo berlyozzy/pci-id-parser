@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "scripts": {
+    "get-list": "node utils/create-pci-list.js"
+  },
+  "type": "module",
+  "name": "pci-id-parser",
+  "version": "1.0.0",
+  "description": "A small library to parse a PCI ID database into a JS Object or find a specific device.",
+  "main": "index.js",
+  "keywords": [
+    "PCI",
+    "PCI",
+    "ID",
+    "PCI",
+    "Parser",
+    "parser",
+    "ESM"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berlyozzy/pci-id-parser.git"
+  },
+  "publishConfig":{"registry":"https://registry.npmjs.org/"},
+  "author": "Aleksandrs Domkovs",
+  "license": "MIT"
+}
